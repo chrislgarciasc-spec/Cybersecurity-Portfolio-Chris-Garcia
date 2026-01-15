@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio - Chris Garcia
 Remote-ready Junior Security Analyst | Associate's in Applied Science Cybersecurity (Trident Technical College) 
 
-📍 Summerville, SC | 🔗 [https://www.linkedin.com/in/chris-garcia-98117234a/] 
+Summerville, SC | [https://www.linkedin.com/in/chris-garcia-98117234a/] 
 
 ## About This Portfolio 
 Hands-on projects from the **Google Cybersecurity Professional Certificate** on Coursera. Includes SIEM analysis, incident response playbooks, Python scripting, packet analysis, Linux/SQL queries, and more.  
@@ -17,5 +17,3 @@ Hands-on projects from the **Google Cybersecurity Professional Certificate** on 
 ## Certifications 
 - Google Cybersecurity Professional Certificate ( *In Progress* )
 - CompTIA Security+ ( *In Progress After Google cert* )
-
-Documenting my work to land my first remote SOC Analyst role! 
