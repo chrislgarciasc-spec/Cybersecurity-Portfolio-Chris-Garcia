@@ -4,12 +4,12 @@ Remote-ready Junior Security Analyst | Associate's in Applied Science Cybersecur
 Summerville, SC | [https://www.linkedin.com/in/chris-garcia-98117234a/] 
 
 ## About This Portfolio 
-Hands-on projects from the **Google Cybersecurity Professional Certificate** on Coursera. Includes SIEM analysis, incident response playbooks, Python scripting, packet analysis, Linux/SQL queries, and more.  
+Below showcases my work and experience from the projects provided by the **Google Cybersecurity Professional Certificate** on Coursera. Includes SIEM analysis, incident response playbooks, Python scripting, packet analysis, Linux/SQL queries, and more.  
 
 ## Projects 
 | Course | Project | Tools Used | Link | 
 |--------|---------|------------|------|
-| Course 2 | NIST Risk Assessment (Botium Toys) | NIST CSF, controls | *In Progress* | 
+| Course 2 | Security Audit (Botium Toys) | NIST CSF, controls | *In Progress* | 
 | Course 6 | SIEM Incident Investigation | Google Chronicle, Splunk | *In Progress* |
 | Course 8 | Python Automation Scripts | Python, regex | *In Progress* | 
 *(I'll update this table as I complete each course)* 
