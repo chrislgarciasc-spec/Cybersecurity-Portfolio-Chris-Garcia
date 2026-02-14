@@ -1,5 +1,5 @@
 # Cybersecurity Portfolio - Chris Garcia
-Remote-ready Junior Security Analyst | Associate's in Applied Science Cybersecurity (Trident Technical College) 
+Remote Security Analyst | Associate's in Applied Science Cybersecurity (Trident Technical College) 
 
 Summerville, SC | [https://www.linkedin.com/in/chris-garcia-98117234a/] 
 
@@ -9,7 +9,8 @@ Below showcases my work and experience from the projects provided by the **Googl
 ## Projects 
 | Course | Project | Tools Used | Link | 
 |--------|---------|------------|------|
-| Course 2 | Security Audit (Botium Toys) | NIST CSF, controls | *In Progress* | 
+| Course 2 | Security Audit (Botium Toys) | NIST CSF, controls | https://docs.google.com/document/d/138d5NiKwnqicgH8YXYBTwhUTf8H-LKkigY5jg_g13s0/edit?usp=sharing |
+| Course 3 | Packet Analyzation | tcpdump | https://docs.google.com/document/d/1GPcWPkxVwQSC82mz6Aq-wxK29NSOuZHrd0LT2Jc7oDI/edit?usp=sharing |
 | Course 6 | SIEM Incident Investigation | Google Chronicle, Splunk | *In Progress* |
 | Course 8 | Python Automation Scripts | Python, regex | *In Progress* | 
 *(I'll update this table as I complete each course)* 
