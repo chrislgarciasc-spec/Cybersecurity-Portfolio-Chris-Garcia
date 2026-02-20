@@ -14,6 +14,7 @@ Below showcases my work and experience from the projects provided by the **Googl
 | Course 3 | Network Analyzation | Packet sniffer | https://docs.google.com/document/d/1CH2Cgc2RfME43DPVb1Zhd_MOQAm22HSrxuTw9GdFQYw/edit?usp=sharing |
 | Course 3 | Applying OS Hardening | tcpdump | https://docs.google.com/document/d/1G_m_TJ9zwwNFO7Hs7nrZ7eYr8QqgY8W2aJpLjW5aZTM/edit?usp=sharing |
 | Course 3 | Security risk assessment | Network hardening tools | https://docs.google.com/document/d/1QnEbES97lwnXhfcxNzpKaa4jaVn96U2ST1Cp1_1sSbU/edit?usp=sharing | 
+| Course 3 | Applying the NIST CSF | NIST CSF | https://docs.google.com/document/d/1T-t9BVDrogIbQLm9YgMd2tMk0JA_RFbrQnmuhd_jANw/edit?usp=sharing |
 | Course 6 | SIEM Incident Investigation | Google Chronicle, Splunk | *In Progress* |
 | Course 8 | Python Automation Scripts | Python, regex | *In Progress* | 
 *(I'll update this table as I complete each course)* 
