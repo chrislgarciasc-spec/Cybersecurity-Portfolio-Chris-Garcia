@@ -20,6 +20,7 @@ Below showcases my work and experience from the projects provided by the **Googl
 | Course 4 | Activity: Find files with Linux commands | Linux Command Line | https://docs.google.com/document/d/1i7ZYB-NxAvowlHN_RBOKR3uf631BetaJ2pZkk2v6us8/edit?usp=sharing |
 | Course 4 | Activity: Filter with grep | Linux Command Line | https://docs.google.com/document/d/1KD_DmQwiNMJLIrv2pYBflTTbnXKvmdg2dwZ_vZi3Yjk/edit?usp=sharing |
 | Course 4 | Activity: Manage files with Linux commands | Linux Command Line | https://docs.google.com/document/d/1qgmL0WXZmlwPxKYkMRR5bUUKHCRVRsseUr8yeh_Dm90/edit?usp=sharing |
+| Course 4 | Activity: Manage authorization | Linux Command Line | https://docs.google.com/document/d/1Xo70lJjHPyQYnEHpy5RKdDyD16QLykXtPz73va6QT-4/edit?usp=sharing |
 | Course 6 | SIEM Incident Investigation | Google Chronicle, Splunk | *In Progress* |
 | Course 8 | Python Automation Scripts | Python, regex | *In Progress* | 
 *(I'll update this table as I complete each course)* 
