@@ -23,6 +23,7 @@ Below showcases my work and experience from the projects provided by the **Googl
 | Course 4 | Activity: Manage authorization | Linux Command Line | https://docs.google.com/document/d/1Xo70lJjHPyQYnEHpy5RKdDyD16QLykXtPz73va6QT-4/edit?usp=sharing |
 | Course 4 | Portfolio Activity: Use Linux commands to manage file permissions | Linux Command Line | https://docs.google.com/document/d/1XtRaTiGIZ0P25uDajxMAnIlluP-128ZrNw25g7oIr0E/edit?usp=sharing |
 | Course 4 | Activity: Add and manage users with Linux commands | Linux Command Line | https://docs.google.com/document/d/1ohwmK74PlSMIwDHcVfnr4TjdgLccTVG1RQoJqNSZoFM/edit?usp=sharing |
+| Course 4 | Activity: Get help in the command lines | Linux Command Line | https://docs.google.com/document/d/1rfq33XzgMci9QY9ivpqo9QaEmWIzS-1BLJXcc8hLn9s/edit?usp=sharing |
 | Course 6 | SIEM Incident Investigation | Google Chronicle, Splunk | *In Progress* |
 | Course 8 | Python Automation Scripts | Python, regex | *In Progress* | 
 *(I'll update this table as I complete each course)* 
