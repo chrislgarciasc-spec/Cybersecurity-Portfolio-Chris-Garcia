@@ -30,6 +30,7 @@ Below showcases my work and experience from the projects provided by the **Googl
 | Course 4 | Activity: Filter with AND, OR, and NOT | Maria DB | https://docs.google.com/document/d/1EEgR3QXxe4btIYtpIoLzYWY9DLWd7Kl9pBFlNvuVQR8/edit?usp=sharing |
 | Course 4 | Portfolio Activity: Apply filters to SQL queries | Maria DB | https://docs.google.com/document/d/1JTGEVDgCVnSXtOsJ0r4mzwJydCRYi3TbXoTM9qQp9zo/edit?usp=sharing |
 | Course 4 | Activity: Complete a join | Maria DB | https://docs.google.com/document/d/1cxDDHSxTTIhlh1vycl2u3oNvuZzZGygAJhjYJtAeueY/edit?usp=sharing |
+| Course 5 | Activity: Classify the assets connected to a home network | Google Docs | https://docs.google.com/spreadsheets/d/1-ZODogrpI5l6FBvOQFgG7VKYUT0-gLy2k6yq1smv0ns/edit?usp=sharing |
 | Course 6 | SIEM Incident Investigation | Google Chronicle, Splunk | *In Progress* |
 | Course 8 | Python Automation Scripts | Python, regex | *In Progress* | 
 *(I'll update this table as I complete each course)* 
